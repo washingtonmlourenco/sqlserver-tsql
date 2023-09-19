@@ -1,3 +1,4 @@
+-- Developed by my friend Kelson Damasceno 
 IF EXISTS (
 		SELECT *
 		FROM sys.tables
