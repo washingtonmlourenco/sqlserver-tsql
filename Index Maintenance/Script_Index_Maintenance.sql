@@ -38,5 +38,5 @@ FROM #IndexFragmentation
 
 --PRINT @SQLCommand
 
-	--Dropa a tabela temporária
+	--Dropa a tabela temporï¿½ria
 	--DROP TABLE #IndexFragmentation
